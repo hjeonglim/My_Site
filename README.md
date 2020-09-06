@@ -1,3 +1,3 @@
-Object: Create a website to host my portfolio
+Object: Build a personal portfoilo website
 
 Technology: Use HTML and CSS in this project
